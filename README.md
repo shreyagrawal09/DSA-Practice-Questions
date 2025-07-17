@@ -28,6 +28,7 @@ I aim to update this repository daily with new problems and solutions.
 Feel free to browse, suggest improvements, or discuss alternative solutions!
 
 “The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie
-And to have a successful life, trust, pray and have patience. -Me(Shrey Agrawal)
+
+" ~ and to have a successful and peaceful life, trust, pray and have patience.". -Me(Shrey Agrawal)
 
 Happy Coding! 🎉
